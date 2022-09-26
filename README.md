@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
@@ -25,6 +26,9 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Project 3 - *Twitter*
+=======
+# Twitter
+>>>>>>> c32b1e9721298b1a16fb9073f0f39e59b2700888
 
 **Twitter** is a basic twitter app to read your tweets.
 
